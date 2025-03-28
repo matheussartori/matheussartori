@@ -5,7 +5,7 @@ I’m passionate about learning and exploring the latest web and mobile developm
 
 Continuous learning drives me, and I’m always looking to stay ahead in the ever-changing tech world. What excites me the most is using programming to bring innovative and meaningful ideas to life.
 
-I also enjoy expressing my art through music: https://www.youtube.com/watch?v=peRZ6Zty0m8
+I also enjoy expressing my art through music: https://www.youtube.com/watch?v=Dp6M40ld504
 
 "There are far, far better things ahead than any we leave behind." - C.S. Lewis
 
