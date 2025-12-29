@@ -1,13 +1,13 @@
 
 <h1 align="left">Matheus Sartori</h1>
 
-I’m passionate about learning and exploring the latest web and mobile development technologies. I enjoy turning ideas into robust and scalable solutions that truly make an impact. With experience building complete systems for large companies, I’ve tackled challenges like managing over 100,000 simultaneous users.
+I’m committed to continuous learning and exploring modern web and mobile development technologies. I enjoy transforming ideas into reliable, scalable solutions and have experience contributing to systems used at scale, including services supporting over 100,000 simultaneous users.
 
-Continuous learning drives me, and I’m always looking to stay ahead in the ever-changing tech world. What excites me the most is using programming to bring innovative and meaningful ideas to life.
+I’m motivated by the constant evolution of technology and the chance to learn something new every day. Above all, I enjoy using development as a way to solve problems and turn ideas into something useful.
 
-I also enjoy expressing my art through music: https://www.youtube.com/watch?v=Dp6M40ld504
+I also enjoy expressing my art through music: [https://www.youtube.com/watch?v=Dp6M40ld504](https://www.youtube.com/watch?v=Bok8v_J0Q0o)
 
-"There are far, far better things ahead than any we leave behind." - C.S. Lewis
+"You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 
 <h2 align="left">Favorite Tech</h2>
 
