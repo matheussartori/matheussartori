@@ -18,8 +18,6 @@ Outside of code, I produce and perform music with [my metalcore band](https://ww
 
 <h2 align="left">Favorite Tech</h2>
 
-> Some of the tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
