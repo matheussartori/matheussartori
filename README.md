@@ -1,9 +1,11 @@
 
 <h1 align="left">Matheus Sartori</h1>
 
-I’m committed to continuous learning and exploring modern web and mobile development technologies. I enjoy transforming ideas into reliable, scalable solutions and have experience contributing to systems used at scale, including services supporting over 100,000 simultaneous users.
+I’m always learning, experimenting, and trying to keep up with the never-ending world of web and mobile development.
 
-I’m motivated by the constant evolution of technology and the chance to learn something new every day. Above all, I enjoy using development as a way to solve problems and turn ideas into something useful.
+I enjoy turning ideas into real products, fixing messy problems, and building things that are actually useful, not just pretty on paper. I’ve worked on different kinds of systems and like thinking about clean code, good architecture, and solutions that can grow without becoming a nightmare later.
+
+What keeps me motivated is the fact that technology never really stands still. There’s always a new tool to test, a better way to solve something, or a bug waiting to humble you at 2 AM.
 
 I also enjoy expressing my art through music: [https://www.youtube.com/watch?v=Dp6M40ld504](https://www.youtube.com/watch?v=Bok8v_J0Q0o)
 
