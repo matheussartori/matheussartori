@@ -11,7 +11,7 @@ Outside of code, I produce and perform music with my metalcore band, which keeps
 
 ## What I’m focused on
 
-- Building full stack applications with React, Node.js, TypeScript and NestJS
+- Building full-stack applications with React, Node.js, TypeScript and NestJS
 - Designing APIs, backend services and clean architectures
 - Working with Docker, MySQL and production-ready development workflows
 - Exploring Python, AWS and AI-assisted development
