@@ -7,9 +7,14 @@ I enjoy turning ideas into real products, fixing messy problems, and building th
 
 What keeps me motivated is the fact that technology never really stands still. There’s always a new tool to test, a better way to solve something, or a bug waiting to humble you at 2 AM.
 
-I also enjoy expressing my art through music: [https://www.youtube.com/watch?v=Dp6M40ld504](https://www.youtube.com/watch?v=Bok8v_J0Q0o)
+Outside of code, I produce and perform music with my metalcore band, which keeps me creative, disciplined, and obsessed with building things that actually work live. ([https://www.youtube.com/watch?v=Dp6M40ld504](https://www.youtube.com/watch?v=Bok8v_J0Q0o))
 
-"You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+## What I’m focused on
+
+- Building full stack applications with React, Node.js, TypeScript and NestJS
+- Designing APIs, backend services and clean architectures
+- Working with Docker, MySQL and production-ready development workflows
+- Exploring Python, AWS and AI-assisted development
 
 <h2 align="left">Favorite Tech</h2>
 
