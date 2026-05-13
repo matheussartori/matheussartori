@@ -7,7 +7,7 @@ I enjoy turning ideas into real products, fixing messy problems, and building th
 
 What keeps me motivated is the fact that technology never really stands still. There’s always a new tool to test, a better way to solve something, or a bug waiting to humble you at 2 AM.
 
-Outside of code, I produce and perform music with my metalcore band, which keeps me creative, disciplined, and obsessed with building things that actually work live. ([https://www.youtube.com/watch?v=Dp6M40ld504](https://www.youtube.com/watch?v=Bok8v_J0Q0o))
+Outside of code, I produce and perform music with [my metalcore band](https://www.youtube.com/watch?v=Bok8v_J0Q0o), which keeps me creative, disciplined, and obsessed with building things that actually work live.
 
 ## What I’m focused on
 
