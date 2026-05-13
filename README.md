@@ -39,7 +39,7 @@ I also enjoy expressing my art through music: [https://www.youtube.com/watch?v=D
     </td>
     <td align="center" width="96">
       <img src="./.github/images/python.png" width="48" height="48" alt="Pop OS" />
-      <br>Pop OS
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="./.github/images/docker.png" width="48" height="48" alt="Docker" />
