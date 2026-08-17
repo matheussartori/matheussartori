@@ -1,58 +1,43 @@
-
 <h1 align="left">Matheus Sartori</h1>
 
-I’m always learning, experimenting, and trying to keep up with the never-ending world of web and mobile development.
+**Senior Full Stack Engineer** — TypeScript · Node.js · React · AWS
+São Paulo, Brazil (UTC−3) · working remotely with teams in Europe and the US, in English
 
-I enjoy turning ideas into real products, fixing messy problems, and building things that are actually useful, not just pretty on paper. I’ve worked on different kinds of systems and like thinking about clean code, good architecture, and solutions that can grow without becoming a nightmare later.
+<a href="https://mattsartori.com.br"><img src="https://img.shields.io/badge/Portfolio-mattsartori.com.br-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mssartori"><img src="https://img.shields.io/badge/LinkedIn-mssartori-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dev@mattsartori.com.br"><img src="https://img.shields.io/badge/Email-dev@mattsartori.com.br-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 
-What keeps me motivated is the fact that technology never really stands still. There’s always a new tool to test, a better way to solve something, or a bug waiting to humble you at 2 AM.
+I build production software end to end — APIs and backend services, the interfaces on top of them, and the pipelines that keep both running. Nine years in, across product teams, client work and my own product, what I care about most is architecture that survives its second year: clear boundaries, tests that actually catch things, and code the next person can change without fear.
 
-Outside of code, I produce and perform music with [my metalcore band](https://www.youtube.com/watch?v=Bok8v_J0Q0o), which keeps me creative, disciplined, and obsessed with building things that actually work live.
+Currently **Senior Full Stack Engineer at Miratech**, co-founder of **[Arcvs](https://arcvs.tech)** and building **[Blockwright](https://blockwright.mattsartori.com.br)**.
 
-## What I’m focused on
+## What I'm building
 
-- Building full-stack applications with React, Node.js, TypeScript and NestJS
-- Designing APIs, backend services and clean architectures
-- Working with Docker, MySQL and production-ready development workflows
-- Exploring Python, AWS and AI-assisted development
+- **[Blockwright](https://blockwright.mattsartori.com.br)** — a paid desktop app for viewing, editing and AI-generating Minecraft structures in 3D. My own product, from architecture to the release pipelines for macOS, Windows and Linux — Electron, TypeScript, Three.js
+- **[Arcvs](https://arcvs.tech)** — a senior-only software studio where I lead technical delivery: web apps, SaaS platforms and MVPs in 4–8 week cycles, spanning fitness, travel booking and B2B automotive
+- **Miratech** — full-stack product work for global enterprise clients
+- LLM features in production: client integrations and Blockwright's AI generation, running on Claude and ChatGPT
 
-<h2 align="left">Favorite Tech</h2>
+## Open source
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="./.github/images/javascript.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/typescript.png" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/nodejs.png" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/react.png" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/nestjs.svg" width="48" height="48" alt="NestJS" />
-      <br>NestJS
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/python.png" width="48" height="48" alt="Pop OS" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/docker.png" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="./.github/images/mysql.png" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+**[Hackerchat](https://github.com/matheussartori/hackerchat-server)** — a real-time chat ecosystem built in the open: WebSocket server, terminal client and a [JS SDK](https://github.com/matheussartori/hackerchat-js-sdk) with React bindings. Node.js, TypeScript, WebSockets.
 
-<a href="https://www.codewars.com/users/matheussartori"><img src="https://www.codewars.com/users/matheussartori/badges/micro" alt="Codewards Badge" /></a>
+## Stack
+
+**Languages** — TypeScript, JavaScript, Python, Java
+**Frontend** — React, Next.js, React Native, Electron
+**Backend** — Node.js, NestJS, GraphQL, Apache Kafka
+**Data** — PostgreSQL, MySQL, MongoDB
+**Infrastructure** — AWS, Docker, Kubernetes, GitHub Actions
+**Testing** — Jest, Vitest, Playwright, Cypress
+
+## Beyond code
+
+I produce and perform with my metalcore band, [Lex Level](https://www.youtube.com/watch?v=Bok8v_J0Q0o) — same instinct as engineering, really: build something that holds together when it has to run live.
+
+## Work with me
+
+- **Hiring?** I'm open to senior full-stack roles — remote, EU/US timezones → [dev@mattsartori.com.br](mailto:dev@mattsartori.com.br)
+- **Building something?** Arcvs takes on fixed-scope builds with weekly demos, contracts and docs in English → [matheus@arcvs.tech](mailto:matheus@arcvs.tech)
+
+💼 [LinkedIn](https://www.linkedin.com/in/mssartori) · 🌐 [mattsartori.com.br](https://mattsartori.com.br)
