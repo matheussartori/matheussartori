@@ -15,12 +15,14 @@ Currently **Senior Full Stack Engineer at Miratech**, co-founder of **[Arcvs](ht
 
 - **[Blockwright](https://blockwright.mattsartori.com.br)** — a paid desktop app for viewing, editing and AI-generating Minecraft structures in 3D. My own product, from architecture to the release pipelines for macOS, Windows and Linux — Electron, TypeScript, Three.js
 - **[Arcvs](https://arcvs.tech)** — a senior-only software studio where I lead technical delivery: web apps, SaaS platforms and MVPs in 4–8 week cycles, spanning fitness, travel booking and B2B automotive
-- **Miratech** — full-stack product work for global enterprise clients
+- **Miratech** — embedded with Optum: authentication, chatbot and contact-center infrastructure for US health plans (Best Buy, FedEx, AARP, Qualcomm, Surest), currently migrating LivePerson → Amazon Connect
 - LLM features in production: client integrations and Blockwright's AI generation, running on Claude and ChatGPT
 
 ## Open source
 
 **[Hackerchat](https://github.com/matheussartori/hackerchat-server)** — a real-time chat ecosystem built in the open: WebSocket server, terminal client and a [JS SDK](https://github.com/matheussartori/hackerchat-js-sdk) with React bindings. Node.js, TypeScript, WebSockets.
+
+**[TS Algorithms](https://github.com/matheussartori/ts-algorithms)** — an interactive data-structures & algorithms guide with visual examples and exercises, live at [ts.arcvs-team.com](https://ts.arcvs-team.com). TypeScript, React.
 
 ## Stack
 
