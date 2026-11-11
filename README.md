@@ -9,12 +9,12 @@ São Paulo, Brazil (UTC−3) · working remotely with teams in Europe and the US
 
 I build production software end to end — APIs and backend services, the interfaces on top of them, and the pipelines that keep both running. Nine years in, across product teams, client work and my own product, what I care about most is architecture that survives its second year: clear boundaries, tests that actually catch things, and code the next person can change without fear.
 
-Currently **Senior Full Stack Engineer at Miratech**, co-founder of **[Arcvs](https://arcvs.tech)** and building **[Blockwright](https://blockwright.mattsartori.com.br)**.
+Currently **Senior Full Stack Engineer at Miratech**, co-founder of **[Arcvs](https://ai.arcvs.tech)** and building **[Blockwright](https://blockwright.mattsartori.com.br)**.
 
 ## What I'm building
 
 - **[Blockwright](https://blockwright.mattsartori.com.br)** — a paid desktop app for viewing, editing and AI-generating Minecraft structures in 3D. My own product, from architecture to the release pipelines for macOS, Windows and Linux — Electron, TypeScript, Three.js
-- **[Arcvs](https://arcvs.tech)** — a senior-only software studio where I lead technical delivery: web apps, SaaS platforms and MVPs in 4–8 week cycles, spanning fitness, travel booking and B2B automotive
+- **[Arcvs](https://ai.arcvs.tech)** — a senior-only software studio where I lead technical delivery: web apps, SaaS platforms and MVPs in 4–8 week cycles, spanning fitness, travel booking and B2B automotive
 - **Miratech** — embedded with Optum: authentication, chatbot and contact-center infrastructure for US health plans (Best Buy, FedEx, AARP, Qualcomm, Surest), currently migrating LivePerson → Amazon Connect
 - LLM features in production: client integrations and Blockwright's AI generation, running on Claude and ChatGPT
 
